@@ -4,8 +4,8 @@
 
 HUNT is a proxy extension to:
 
-1. Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, availible for Burp Suite PRO and ZAProxy). 
-2. Organize testing methodologies (currently avalible only inside of Burp Suite).
+1. Identify common parameters vulnerable to certain vulnerability classes (HUNT Scanner, available for Burp Suite PRO and ZAProxy). 
+2. Organize testing methodologies (currently available only inside of Burp Suite).
 
 ### HUNT Scanner Vulnerability Classes
 
